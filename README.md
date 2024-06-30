@@ -1,7 +1,6 @@
+This is using from the https://github.com/UmaSahni?tab=repositories
+
 # JSON_Server_Deployment
-
-
-
 
 By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
 --------------

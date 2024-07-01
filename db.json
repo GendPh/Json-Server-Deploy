@@ -459,7 +459,7 @@
   "user-movies": [
     {
       "id": "1",
-      "name": "Gabriel Ferreira",
+      "email": "test@tes.com",
       "password": "password"
     }
   ]

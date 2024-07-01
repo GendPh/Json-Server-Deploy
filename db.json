@@ -455,5 +455,12 @@
       "isBookmarked": true,
       "isTrending": false
     }
+  ],
+  "user-movies": [
+    {
+      "id": "1",
+      "name": "Gabriel Ferreira",
+      "password": "password"
+    }
   ]
 }
